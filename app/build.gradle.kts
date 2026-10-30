@@ -10,8 +10,8 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.weburg.fether"
-        minSdk = 30
+        applicationId = "com.weburg.example.fether"
+        minSdk = 28
         targetSdk = 37
         versionCode = 1
         versionName = "1.0"
